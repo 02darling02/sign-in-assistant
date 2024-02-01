@@ -1,6 +1,6 @@
 # 哔哩哔哩配置
 # 是否开启 false 关闭  true 开启
-enabled: false
+enabled: true
 # name任意填 ，网页F12获取哔哩哔哩cookie内的这三项 不会的百度
 # 可选参数
 #  预留的硬币数 reserveCoins
@@ -9,6 +9,6 @@ enabled: false
 #  支持多账号
 accounts:
   - name: xxx
-    DEDEUSERID: xxx
-    SESSDATA: xxx
-    BILI_JCT: xxx
+    DEDEUSERID: 353606524
+    SESSDATA: 2467491a%2C1722333956%2Cda84c%2A21CjCkM0Ohb4qVpQXhRKkZiPWdjCZLc9hcwTXV_9xXbkR35H5996VV1PBAs4-o27buTbgSVm1QbGZjYkt4SkRHdU1haXk5Rm5ERG9JZzkxMWg4NHpQc0VLcUl0LXlRWTR4NDJheHFQU0tMLVYxTDAyNEpQV3RmR2l5bzAtQ2pvcFBsRWZhVmdGdWpnIIEC; bili_jct=ea32cef16b789f8c5cceae82935a8517
+    BILI_JCT: ea32cef16b789f8c5cceae82935a8517
