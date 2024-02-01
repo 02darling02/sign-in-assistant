@@ -6,7 +6,7 @@ scheduled:
 msg:
   # 消息推送方式,只推送cooking登录检查失败用户,目前只支持邮件
   # none|不开启    email|邮件通知    server|server酱
-  pushType: none
+  pushType: server
   pushConfig:
     # 邮箱
     mailbox:
@@ -20,4 +20,4 @@ msg:
       email:
     # server酱
     server:
-      key:
+      key:SCT6909T6qocstQ3YVOdvaY5J52oF7Lv
